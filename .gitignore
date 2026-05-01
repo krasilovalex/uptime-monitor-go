@@ -1,0 +1,18 @@
+# os
+.DS_store
+Thumbs.db
+.idea/
+.vscode/
+
+# env
+.env
+*.env
+.env.*.local
+
+#backend go
+/backend/bin
+/backend/tmp/
+/backend/*.exe
+/backend/*.test
+/backend/*.out
+/backend/vendor/
